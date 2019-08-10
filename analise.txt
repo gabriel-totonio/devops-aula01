@@ -1,0 +1,9 @@
+Nome dos integrantes: Gabriel Alves, Giovanne Barbosa, Vivian Santos, Roberta Guedes.
+Tema: Automobillistico
+
+App_name: ChaMecânico
+
+Análise:
+
+Giovanne vai solicitar um profissional especifico para o problema de seu carro no app na parte de solicitações.
+Jones recebe uma notificação podendo aceitar ou recusar a proposta do cliente, e imediatamente vai até o local da chamada.
