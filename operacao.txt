@@ -1,0 +1,6 @@
+Nome dos integrantes: Gabriel Alves, Giovanne Barbosa, Vivian Santos, Roberta Guedes
+Tema: Automobillistico
+
+lib: mecanicaov3
+versao do software: 0.1.9
+chamecanico_final.apk
