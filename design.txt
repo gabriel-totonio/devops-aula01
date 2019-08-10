@@ -1,0 +1,10 @@
+Nome dos integrantes: Gabriel Alves, Giovanne Barbosa, Vivian Santos, Roberta Guedes
+Tema: Automobillistico
+
+ChaMecânico
+
+Design (design.txt):
+O componente 'socilitação' envia uma requisição para o prestador
+O controlador de notify mostra uma notificação ao device do prestador
+O componente de decisoes gerencia a recusa ou aceitação da proposta do cliente
+O componente de coordenadas envia a localização do cliente e do prestador em tempo real.
