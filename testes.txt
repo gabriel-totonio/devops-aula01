@@ -1,0 +1,9 @@
+Nome dos integrantes: Gabriel Alves, Giovanne Barbosa, Vivian Santos, Roberta Guedes
+Tema: Automobillistico
+
+Teste (texte.txt):
+Cliente solicitou o serviço do profissional com sucesso: OK
+Prestador recebeu a notiticação com sucesso: OK
+Prestador concluiu a aceitação da proposta do cliente: OK
+Prestador concluiu a recusa da proposta do cliente: OK
+Prestador recebeu as coordenadas do local corretamente: OK
