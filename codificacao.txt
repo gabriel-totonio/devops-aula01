@@ -1,0 +1,25 @@
+Nome dos integrantes: Gabriel Alves, Giovanne Barbosa, Vivian Santos, Roberta Guedes
+Tema: Automobillistico
+
+ChaMecânico
+
+Codificação (codificacao.txt):
+if (cliente_solicita()) {
+
+	enviar_notificacao(profissional, problema);
+	
+}
+
+if (prestador_recebe_notificacao()) {
+
+	if (resposta_prestador()) {
+
+		recebe_coordenadas;
+
+	} else {
+
+		recusa();
+
+	}
+
+}
